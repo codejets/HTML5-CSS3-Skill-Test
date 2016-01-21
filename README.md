@@ -9,4 +9,7 @@
 ⋅⋅4 You should make an attempt to complete the task
 ⋅⋅5 You are expected to complete the assignment by 25th Jan 2016.
 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+
 ## Happy Coding!
